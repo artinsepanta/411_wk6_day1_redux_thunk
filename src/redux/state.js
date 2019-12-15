@@ -2,6 +2,7 @@ export default {
     user: {
         username: 'test-user-1',
         email: 'test-user@example.com'
+        
     },
     cars: [
         {
@@ -144,6 +145,9 @@ export default {
            "cylinders":8,
            "horsepower":225
         }
-    ]
+    ],
+
+    makes:[]
+    
   };
   
